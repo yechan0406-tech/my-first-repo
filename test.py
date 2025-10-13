@@ -1,2 +1,1 @@
-print("이 문장은 feature-test 브랜치에서 추가되었습니다.")
-print("Hello World")
+print("2번째 버전입니다!")
