@@ -1,6 +1,6 @@
 # 업로드 제외할 폴더
-data/
-output/
+data/*
+output/*
 
 # 임시 파일 및 캐시
 __pycache__/
